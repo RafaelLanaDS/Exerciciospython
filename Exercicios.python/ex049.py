@@ -1,0 +1,1 @@
+'''Refaça o exercicio  009 mostrando a tabuada de um numero que o usuario escolher, so que agora utilizando um laço for.'''

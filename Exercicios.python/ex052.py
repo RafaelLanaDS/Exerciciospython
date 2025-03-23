@@ -1,0 +1,1 @@
+'''Faça um programa que leia um numero interio e diga se ela é ou não um numero primo'''
