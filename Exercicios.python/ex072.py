@@ -3,7 +3,7 @@ Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por 
 seu programa devera ler um numero pelo teclado entre (0 a 20) e mostralo por extenso.
 '''
 
-cont = 'zeo', 'um', 'dois', 'tres', 'quantro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez','onze', 'doze', 'treze', 'quatorce', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte'
+cont = 'zero', 'um', 'dois', 'tres', 'quantro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez','onze', 'doze', 'treze', 'quatorce', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte'
 
 
 while True:
