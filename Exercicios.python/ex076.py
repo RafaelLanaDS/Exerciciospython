@@ -21,3 +21,5 @@ for c in range(0, len(produtos)):
         print('{:.<30}'.format(produtos[c]), end=' ')
     else:
         print('R${:>7.2f}' .format(produtos[c]))
+
+        
