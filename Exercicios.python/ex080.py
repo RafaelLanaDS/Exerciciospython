@@ -19,5 +19,5 @@ for c in range (0, 5):
                 break
             pos = pos + 1 # vai para aproxima posição 
 
-print('-=' * 20)
+print('-=' * 30)
 print('Os valores digitados em ordem foram {}' .format(lista))
